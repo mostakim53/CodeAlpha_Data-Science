@@ -1,6 +1,8 @@
 # Irish Data Analysis Project
 ##🌸 Iris Flower Species Classification
+
 #Project Overview
+
 This project is a classic machine learning endeavor focused on the Iris flower dataset, which serves as an excellent introductory case study for classification algorithms. The goal is to build a robust model capable of classifying an Iris plant into one of three species: Iris-setosa, Iris-versicolor, or Iris-virginica, based on its physical measurements.
 
 #The project follows a standard data science workflow, including Exploratory Data Analysis (EDA), data preprocessing, model training, and performance evaluation.
@@ -48,25 +50,35 @@ Accuracy Score: 0.93 (93%)
 | Iris-virginica | 0.89 | 0.89 | 0.89 |
 
 #Technologies Used
+
 -Python
+
 -Jupyter Notebook
+
 -pandas for data manipulation
+
 -numpy for numerical operations
+
 -seaborn and matplotlib for data visualization
 
 
 
 ## CodeAlpha_Data-Science
+
 ##📈 Unemployment Analysis in India (2019-2021)
+
 #Project Overview
+
 This data science project focuses on performing an Exploratory Data Analysis (EDA) of unemployment figures across various regions of India. The primary objective is to analyze and visualize the trends in unemployment, employment, and labor participation rates over a specific period, with a particular focus on the impact of events, such as the COVID-19 pandemic, on the labor market.
 
 The analysis is conducted in a Jupyter Notebook, which details the full data cleaning, feature engineering, and visualization workflow.
 
 #Data Source
+
 The project uses the "Unemployment in India.csv" dataset. The dataset provides monthly estimates for different regions and areas (Rural/Urban).
 
 #Key Features Analyzed:
+
 #Region: State or territory name.
 
 #Date: The month-end date for the recorded data.
@@ -94,6 +106,7 @@ COVID Impact Analysis: A specific segment of the analysis investigates the regio
 Regional Trends: Visualizations are used to rank regions based on their average unemployment rates to identify areas with the most significant challenges.
 
 #Technologies Used
+
 -Python
 
 -Jupyter Notebook
